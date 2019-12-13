@@ -1,0 +1,8 @@
+C:\Users\suporte\source\repos\Hospital\ServerInfra\bin\Debug\netstandard2.0\ServerInfra.deps.json
+C:\Users\suporte\source\repos\Hospital\ServerInfra\bin\Debug\netstandard2.0\ServerInfra.dll
+C:\Users\suporte\source\repos\Hospital\ServerInfra\bin\Debug\netstandard2.0\ServerInfra.pdb
+C:\Users\suporte\source\repos\Hospital\ServerInfra\obj\Debug\netstandard2.0\ServerInfra.AssemblyInfoInputs.cache
+C:\Users\suporte\source\repos\Hospital\ServerInfra\obj\Debug\netstandard2.0\ServerInfra.AssemblyInfo.cs
+C:\Users\suporte\source\repos\Hospital\ServerInfra\obj\Debug\netstandard2.0\ServerInfra.dll
+C:\Users\suporte\source\repos\Hospital\ServerInfra\obj\Debug\netstandard2.0\ServerInfra.pdb
+C:\Users\suporte\source\repos\Hospital\ServerInfra\obj\Debug\netstandard2.0\ServerInfra.csprojAssemblyReference.cache
